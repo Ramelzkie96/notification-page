@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ramelzkie96/notification-page.git)
-- Live Site URL: [Add live site URL here](https://notification-page-ramel.netlify.app/)
+- Solution URL: 🔗 [View my solution on GitHub](https://github.com/Ramelzkie96/notification-page.git)
+- Live Site URL: 🌐 [Live site](https://notification-page-ramel.netlify.app/)
 
 
 
